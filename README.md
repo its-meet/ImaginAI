@@ -30,4 +30,4 @@ You can tweak the number of images to be generated per prompt. And download the 
 
 ## Contact
 
-mohdejazsiddiqui@gmail.com
+ishmeet1289@gmail.com
